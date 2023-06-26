@@ -1,0 +1,21 @@
+{
+  "title": "Sample Blog Post",
+  "author": "John Doe",
+  "date": "2023-06-24",
+  "content": "<p>This is the content of the blog post.</p><p>It can include paragraphs, headings, images, and other HTML elements.</p>",
+  "tags": ["technology", "programming"],
+  "comments": [
+    {
+      "author": "Jane Smith",
+      "date": "2023-06-25",
+      "comment": "Great post! I learned a lot from it."
+    },
+    {
+      "author": "Mark Johnson",
+      "date": "2023-06-26",
+      "comment": "Thanks for sharing your insights."
+    }
+  ],
+  "website": "https://www.example.com",
+  "email": "info@example.com"
+}
