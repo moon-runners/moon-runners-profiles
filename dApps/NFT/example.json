@@ -13,13 +13,13 @@
       {
         "name": "Joe Doe",
         "role": "",
-        "description": " "
+        "description": ""
       },
     "social": 
       {
         "twitter": "https:twitter.com",
-        "github": " ",
-        "facebook": " "      
+        "github": "",
+        "facebook": ""      
       }
   }   
 }
