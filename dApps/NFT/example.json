@@ -1,13 +1,11 @@
 {
   "project": {
-    "name": "Miata",
+    "name": "Example File",
     "logo": "https://moon-runners.net/media/logos/default-dark.svg",
     "banner": "https://moon-runners.net/media/logos/default-dark.svg",
     "version": "1.0",
     "description": "Brief description of your project",
     "author": "Dilamar Martinez",
-    "website": "https://miata.io"
-    "contact": "miatamg@gmail.com",
     "data": {
       "key1": "value1",
       "key2": "value2",
