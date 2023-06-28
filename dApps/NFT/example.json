@@ -7,19 +7,6 @@
     "description": "Brief description of your project",
     "author": "none",
     "website": "https://miata.io",
-    "contact": "miatamg@gmail.com",
-    "data": {
-      "key1": "value1",
-      "key2": "value2",
-      "key3": "value3"
-    },
-    "settings": {
-      "setting1": true,
-      "setting2": false,
-      "setting3": {
-        "subsetting1": 10,
-        "subsetting2": "example"
-      }
-    }
+    "contact": "miatamg@gmail.com",      
   }
 }
