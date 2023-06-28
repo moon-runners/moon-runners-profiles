@@ -1,12 +1,25 @@
 {
   "project": {
     "name": "Miata",
-    "logo": "https://miata.io/static/media/BackgroundWrinkles1.f1e8418b.svg",
-    "banner": "https://miata.io/static/media/BackgroundWrinkles1.f1e8418b.svg",
+    "logo": "https://moon-runners.net/media/logos/default-dark.svg",
+    "banner": "https://moon-runners.net/media/logos/default-dark.svg",
     "version": "1.0",
     "description": "Brief description of your project",
-    "author": "none",
-    "website": "https://miata.io",
-    "contact": "miatamg@gmail.com" 
+    "author": "Dilamar Martinez",
+    "website": "https://miata.io"
+    "contact": "miatamg@gmail.com",
+    "data": {
+      "key1": "value1",
+      "key2": "value2",
+      "key3": "value3"
+    },
+    "settings": {
+      "setting1": true,
+      "setting2": false,
+      "setting3": {
+        "subsetting1": 10,
+        "subsetting2": "example"
+      }
+    }
   }
 }
