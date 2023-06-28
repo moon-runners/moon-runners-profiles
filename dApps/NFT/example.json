@@ -5,7 +5,7 @@
     "banner": "https://moon-runners.net/media/logos/default-dark.svg",
     "version": "1.0",
     "description": "Brief description of your project",
-    "author": "Dilamar Martinez",    
+    "author": "Dilamar Martinez",
     "data": {
       "key1": "value1",
       "key2": "value2",
@@ -18,6 +18,6 @@
         "subsetting1": 10,
         "subsetting2": "example"
       }
-    },    
+    }
   }
 }
