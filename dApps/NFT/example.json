@@ -1,11 +1,10 @@
 {
-  "project": 
-  {
+  "project": {
     "name": "Example File",
     "logo": "https://moon-runners.net/media/logos/default-dark.svg",
     "banner": "https://moon-runners.net/media/logos/default-dark.svg",
     "version": "1.0",
     "description": "Brief description of your project",
-    "author": "Dilamar Martinez", 
-  },
+    "author": "Dilamar Martinez"
+  }
 }
