@@ -19,7 +19,7 @@ We value and appreciate your contributions to Moon Runners. To submit data and h
 3. **Create a Branch**: Create a new branch with a descriptive name to work on your data. This keeps your changes isolated and makes it easier for us to review.
 
    ```
-   git checkout -b my-data-contribution
+   git checkout -b profile-name
    ```
 
 4. **Add Your Data**: Add your data to the relevant directories following our guidelines. Please ensure that your data is accurate and properly formatted.
