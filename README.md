@@ -34,7 +34,7 @@ We value and appreciate your contributions to Moon Runners. To submit data and h
 6. **Push to Your Fork**: Push your branch to your forked repository.
 
    ```
-   git push origin my-data-contribution
+   git push origin profile-name
    ```
 
 7. **Create a Pull Request**: Go to the Moon Runners main repository on GitHub and click on the "New Pull Request" button. Fill in the details about your contribution and submit the pull request.
