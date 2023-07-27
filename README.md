@@ -1,6 +1,6 @@
 # Moon Runners - README
 
-![Moon Runners Logo](https://example.com/moon-runners-logo.png)
+![Moon Runners Logo](https://moon-runners.net/media/logos/default-dark.svg)
 
 ## Overview
 
