@@ -15,7 +15,7 @@ We value and appreciate your contributions to Moon Runners. To submit data and h
 2. **Clone the Repository**: Clone the forked repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/moon-runners.git
+   git clone https://github.com/moon-runners/website_data
    ```
 
 3. **Create a Branch**: Create a new branch with a descriptive name to work on your data. This keeps your changes isolated and makes it easier for us to review.
@@ -63,7 +63,7 @@ If you have any questions or inquiries about the project, you can reach us via:
 
 - Website: [moon-runners.net](https://moon-runners.net)
 - GitHub Discussions: [Moon Runners Discussions](https://github.com/moon-runners/moon-runners/discussions)
-- Email: [contact@moon-runners.net](mailto:contact@moon-runners.net)
+- Email: [support@moon-runners.net](mailto:support@moon-runners.net)
 
 We look forward to your valuable contributions to Moon Runners! Together, we can create a rich and diverse repository of data for our website. Thank you for being a part of our community! 🚀
  
