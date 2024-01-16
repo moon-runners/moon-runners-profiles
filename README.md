@@ -1,4 +1,4 @@
-![Moon Runners Logo](https://moon-runners.net/media/logos/default-dark.svg)
+![Moon Runners Logo](https://moon-runners.net/media/logos/demo7.svg)
 
 ## Overview
 
