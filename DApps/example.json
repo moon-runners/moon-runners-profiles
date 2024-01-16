@@ -1,0 +1,29 @@
+{
+    "dapp": {
+        "general": {
+            "name": "Example File",
+            "shortDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "whitepaperURL": "https://moon-runners.net/media/whitepapers/default.pdf",
+            "website": "https://moon-runners.net",
+            "email": ""
+        },
+        "media": {
+            "logoURL": "https://moon-runners.net/media/logos/default-dark.svg",
+            "bannerURL": "https://t4.ftcdn.net/jpg/03/22/77/43/360_F_322774319_h6q4qRgF7M6H1vtSe7HP8DQPtk7Kafn7.jpg"
+        },
+        "appType": "NFT",
+        "version": "1.0",
+        "author": {
+            "name": "",
+            "role": "",
+            "description": ""
+        },
+        "social": {
+            "discord": "",
+            "github": "",
+            "twitter": ""
+        },
+        "profileURL": ""
+    }
+}
