@@ -1,0 +1,20 @@
+{
+    "profile": {
+        "general": {
+            "name": "",
+            "shortDescription": "",
+            "longDescription": "",
+            "website": "",
+            "email": ""
+        },
+        "media": {
+            "logoURL": "",
+            "bannerURL": ""
+        },
+        "social": {
+            "discord": "",
+            "github": "",
+            "twitter": ""
+        }
+    }
+}
